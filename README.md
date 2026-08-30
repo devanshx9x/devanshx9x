@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Devansh
-- 👀 I’m interested in Finance/Analytics
-- 🌱 I’m currently learning Python
+- 👋 Hi, I'm Devansh
+- 🎓 Commerce grad exploring the intersection of finance, analytics, and tech
+- 💼 Currently a Risk Analyst @ Revolut 
+- 💻 Bridging the gap between traditional finance and code using Python and R
+- 🌱 Building financial models, workflow automations, and data visualization tools
 
 
 <!---
